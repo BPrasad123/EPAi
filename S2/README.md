@@ -25,7 +25,7 @@ The session focussed on following topics:
     * Use set instead of list and tuple when checking if an object is present in a collection
 
 ## Assignment
- --Here in this code we will be leaking memory because we are creating cyclic reference. 
- --Find that we are indeed making cyclic references.
- --Eventually memory will be released, but that is currently not happening immediately.
+ --Here in this code we will be leaking memory because we are creating cyclic reference.  
+ --Find that we are indeed making cyclic references.  
+ --Eventually memory will be released, but that is currently not happening immediately.  
  --We have added a function called "clear_memory" but it is not able to do it's job. Fix it. 
