@@ -3,6 +3,7 @@
 
 
 Advanced python series by [https://theschoolof.ai/](https://theschoolof.ai/)   
+
 Phase I of the course comprises 16 sessions each focused on a particular topic and corresponding assignment. Each assignment is designed very thoughtfully making one go to the depth all the associated technical concepts. Assignment evaluation is carried out with comprehensive pytest scenarios executed with Github workflow. The first phase of the course is concluded with a capstone project by building next generation AI-based Learning Management Studio - XMS using Django web development framework in collaborative fashion.
   
 ## The Course structure:  
