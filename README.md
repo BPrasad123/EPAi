@@ -41,3 +41,6 @@ Phase I of the course comprises 16 sessions each focused on a particular topic a
 **Context Managers:** Context Managers, Lasy Iterators, Generators and Context Managers, Nested Context Managers and their application  
 
 **Data Pipelines:** Data Pipeline and application  
+
+  
+**Phase-II on advanced OOPs and Pytorch is starting early August and the assignments will be updated in another repo.**
